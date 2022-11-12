@@ -1,6 +1,6 @@
 # Welcome to SeanJayManuel.com
 
-##About
+## About
 
 Welcome to the source code of my very first personal website!
 
