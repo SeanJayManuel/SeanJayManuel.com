@@ -8,4 +8,4 @@ My intentions with building this website is to showcase some of my skills and pr
 
 ## The Code
 
-I tried to build a primarely basic website by just using HTML and CSS. I am by no means a UI/UX expert, so the goal was a simple onepage website built with default HTML libraries.
+I tried to build a primarily basic website by just using HTML and CSS. I am by no means a UI/UX expert, so the goal was a simple onepage website built with default HTML and CSS libraries.
